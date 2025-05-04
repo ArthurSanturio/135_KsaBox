@@ -1,0 +1,5 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" fill="#FFFDE7"/>
+  <rect x="100" y="100" width="600" height="300" fill="#FFF8E1" rx="8"/>
+  <text x="400" y="270" font-family="Arial" font-size="24" fill="#666666" text-anchor="middle">Visualização 3D</text>
+</svg> 

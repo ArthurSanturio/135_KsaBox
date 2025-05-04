@@ -1,0 +1,7 @@
+<svg width="220" height="160" viewBox="0 0 220 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="40" y="100" width="140" height="30" rx="8" fill="#E0E7EF"/>
+  <rect x="50" y="110" width="40" height="20" rx="4" fill="#fff" stroke="#B3C6E0" stroke-width="2"/>
+  <rect x="130" y="110" width="40" height="20" rx="4" fill="#fff" stroke="#B3C6E0" stroke-width="2"/>
+  <rect x="90" y="110" width="40" height="20" rx="4" fill="#B3C6E0"/>
+  <text x="110" y="95" text-anchor="middle" font-size="28" fill="#25A65B" font-family="Arial">R$</text>
+</svg> 
